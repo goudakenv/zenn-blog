@@ -1,9 +1,9 @@
 ---
-title: "【DAY32】TECH - Javaを書くときに意識したいコツ"
+title: "【DAY32】Javaを書くときに意識したいコツ"
 emoji: "☕"
 type: "tech"
 topics: ["Java", "コーディング", "ベストプラクティス"]
-published: true
+published: false
 ---
 
 # 【DAY32】Javaを書くときに意識しておきたいコツ 
