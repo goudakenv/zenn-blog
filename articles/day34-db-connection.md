@@ -4,7 +4,7 @@ emoji: "☕️"
 type: "tech"
 topics: ["Java", "JDBC", "Database", "プログラミング学習", "学習ログ"]
 published: false
-published_at: 2025/07/14 10:00:00
+published_at: 2025-07-14 10:00
 ---
 
 # Day34 - JavaでのDB接続
