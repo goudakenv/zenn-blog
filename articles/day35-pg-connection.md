@@ -3,9 +3,10 @@ title: "【DAY35】Java最低限のクラス"
 emoji: "☕"
 type: "tech"
 topics: ["Java", "コーディング", "初心者", "クラス設計", "基本構文"]
-published: false
-published_at: "2025-07-15 15:27"
+published: true
+publishedAt: "2025-07-15T15:27:00+09:00"
 ---
+
 
 ## ✅ Spring Boot × DB：最小構成（4ファイル）
 
