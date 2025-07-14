@@ -3,7 +3,7 @@ title: "【DAY36】JavaはDBが先、PHPはアプリが先？SpringとLaravelの
 emoji: "☕"
 type: "tech"
 topics: ["Java", "コーディング", "初心者", "クラス設計", "基本構文"]
-publishedAt: "2025-07-16"
+published_at: "2025-07-16 05:42"
 ---
 
 # Day36: SpringとLaravelのDB接続の違い
