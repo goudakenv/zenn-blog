@@ -1,5 +1,5 @@
 ---
-title: "【DAY41】ふさわしいタイトル考えて"
+title: "【DAY42】ふさわしいタイトル考えて"
 emoji: "何か考えて"
 type: "tech"
 topics: ["5つ考えて"]
