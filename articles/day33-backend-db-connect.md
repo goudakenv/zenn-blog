@@ -3,7 +3,7 @@ title: "【DAY33】バックエンドとDB接続の簡単な仕組み理解"
 emoji: "🛠️"
 type: "tech"
 topics: ["バックエンド", "データベース", "仕組み理解"]
-published: false
+published: true
 ---
 
 # 【DAY33】バックエンドとDB接続の簡単な仕組み理解
