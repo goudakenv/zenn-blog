@@ -1,8 +1,3 @@
-以下は、あなたの指定に基づいて構成したTECH寄りのMarkdown記事です。GitHub Pagesで公開中のJavaScriptゲームに`localStorage`を使って、端末ごとにセーブできるようにする実装とポイントを解説しています。文字数は約1300字で収めています。
-
----
-
-````markdown
 ---
 title: "【DAY82】GitHub PagesのJSゲームにlocalStorageでセーブ機能を追加"
 emoji: "💾"
